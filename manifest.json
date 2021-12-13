@@ -1,0 +1,53 @@
+{
+    "name": "Laper Apps",
+    "short_name": "Laper",
+    "description": "Tugas dicoding oleh Nicholas Stancio Saka",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#d84315",
+    "icons": [
+      {
+        "src": "/images/icons/scooter-16.png",
+        "sizes": "16x16",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "/images/icons/scooter-24.png",
+        "sizes": "24x24",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "/images/icons/scooter-32.png",
+        "sizes": "32x32",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "/images/icons/scooter-64.png",
+        "sizes": "64x64",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "/images/icons/scooter-128.png",
+        "sizes": "128x128",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "/images/icons/scooter-256.png",
+        "sizes": "256x256",
+        "type": "image/png",
+        "purpose": "any maskable"
+      },
+      {
+        "src": "/images/icons/scooter-512.png",
+        "sizes": "512x512",
+        "type": "image/png",
+        "purpose": "any maskable"
+      }
+    ]
+  }
